@@ -1,0 +1,84 @@
+/* COULEURS */
+	body {
+		background: url("../img/bodyBg/bg1.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	}
+
+	.orange{
+		color: orange;
+	}
+
+	.seashell{
+		color: seashell;
+	}
+
+	.white{
+		color: white;
+	}
+
+	.black, .black a, .black p, .black input, .black h, .searchQuiz, .searchTitre, .searchAuteur {
+		color: black;
+	}
+
+	.turquoiseBg {
+		background-color: paleturquoise;
+	}
+
+	.goldenrodBg {
+		background-color: palegoldenrod;
+	}
+
+	.reponse {
+		color: blue;
+	}
+
+/* STYLE DE FONT */
+	.bold {
+		font-weight: bold;
+	}
+
+	.cursive {
+		font-family: cursive;
+	}
+
+/* TAILLES */
+	.bigText {
+		font-size: 200%!important;
+	}
+
+/* DISPOSITIONS */
+	.textAlignCenter {
+		text-align: center;
+	}
+
+	.textAlignRight {
+		text-align: right;
+	}
+
+	.centrer-image {
+		margin: auto;
+		display: block;
+	}
+
+	.container{
+		margin-top: 2%;
+	}
+
+	.menuBtn{
+		margin-bottom: 1%;
+	}
+
+	.margin-left-2{
+		margin-left: 2%;
+	}
+
+	#btn_up {
+		position: fixed;
+		bottom: 15px;
+		right: 25px;
+		cursor: pointer;
+		width: 50%;
+	}
+
+	.showReponse{
+		cursor: pointer;
+	}
